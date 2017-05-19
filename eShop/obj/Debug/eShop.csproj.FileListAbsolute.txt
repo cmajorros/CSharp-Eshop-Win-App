@@ -1,0 +1,31 @@
+C:\Users\user\AppData\Local\Temporary Projects\eShop\bin\Debug\eShop.exe
+C:\Users\user\AppData\Local\Temporary Projects\eShop\bin\Debug\eShop.pdb
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\eShop.frmLogin.resources
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\eShop.frmMain.resources
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\eShop.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\eShop.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\eShop.exe
+C:\Users\user\AppData\Local\Temporary Projects\eShop\obj\Debug\eShop.pdb
+D:\oat\eShop\eShop\obj\Debug\eShop.exe
+D:\oat\eShop\eShop\obj\Debug\eShop.pdb
+D:\oat\eShop\eShop\bin\Debug\eShop.exe
+D:\oat\eShop\eShop\bin\Debug\eShop.pdb
+D:\oat\eShop\eShop\obj\Debug\ResolveAssemblyReference.cache
+D:\oat\eShop\eShop\obj\Debug\eShop.frmLogin.resources
+D:\oat\eShop\eShop\obj\Debug\eShop.frmMain.resources
+D:\oat\eShop\eShop\obj\Debug\eShop.Properties.Resources.resources
+D:\oat\eShop\eShop\obj\Debug\eShop.csproj.GenerateResource.Cache
+D:\oat\eShop\eShop\obj\Debug\eShop.frmSale.resources
+D:\oat\eShop\eShop\obj\Debug\eShop.frmProduct.resources
+D:\eShop\eShop\obj\Debug\eShop.exe
+D:\eShop\eShop\obj\Debug\eShop.pdb
+D:\eShop\eShop\obj\Debug\ResolveAssemblyReference.cache
+D:\eShop\eShop\obj\Debug\eShop.frmLogin.resources
+D:\eShop\eShop\obj\Debug\eShop.frmMain.resources
+D:\eShop\eShop\obj\Debug\eShop.frmProduct.resources
+D:\eShop\eShop\obj\Debug\eShop.frmSale.resources
+D:\eShop\eShop\obj\Debug\eShop.Properties.Resources.resources
+D:\eShop\eShop\obj\Debug\eShop.csproj.GenerateResource.Cache
+D:\eShop\eShop\bin\Debug\eShop.exe
+D:\eShop\eShop\bin\Debug\eShop.pdb
